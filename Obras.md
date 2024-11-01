@@ -16,6 +16,8 @@ Los monumentos de arquitectura que hoy se consideran como visigodos en nuestra p
 
 7. La Iglesia de Santa María de Melque de San Martín de Montalbán (Toledo).
 
-[Visigodos](README.md)
-[Arquitectura](Arquitectura.md)
-[Epoca](Epoca.md)
+* [Visigodos](README.md)
+
+* [Arquitectura](Arquitectura.md)
+
+* [Epoca](Epoca.md)
